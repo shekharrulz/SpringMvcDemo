@@ -1,1 +1,5 @@
-com\pluralsight\controller\HelloController.class
+com\eclipseboy\controller\GoalController.class
+com\eclipseboy\model\Goal.class
+com\eclipseboy\controller\HelloController.class
+com\eclipseboy\controller\MinutesController.class
+com\eclipseboy\model\Exercise.class
